@@ -26,7 +26,7 @@ Datasets:
 Note.- Descripcions and explains in the code are written in Spanish.
 
 Contact information:
-. María Luisa Duque (mlduque)
-. E-mail: marialdu@ucm.es
-. LinkedIn: https://www.linkedin.com/in/marialuisaduque/
-. Github: https://github.com/mlduque
+- María Luisa Duque (mlduque)
+- E-mail: marialdu@ucm.es
+- LinkedIn: https://www.linkedin.com/in/marialuisaduque/
+- Github: https://github.com/mlduque
