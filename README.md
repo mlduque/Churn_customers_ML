@@ -6,7 +6,7 @@ This reposity contains a Machine Learning study with Python about custormer chur
 from 2019 December until 2020 January.
 
 	
-	Atachments:
+Atachments:
 
 Code Files:
 - Customer_Churn_ML_Python.ipynb
@@ -25,8 +25,8 @@ Datasets:
 
 Note.- Descripcions and explains in the code are written in Spanish.
 
--- 
-María Luisa Duque (mlduque)
-E-mail: marialdu@ucm.es
-LinkedIn: https://www.linkedin.com/in/marialuisaduque/
-Github: https://github.com/mlduque
+Contact information:
+. María Luisa Duque (mlduque)
+. E-mail: marialdu@ucm.es
+. LinkedIn: https://www.linkedin.com/in/marialuisaduque/
+. Github: https://github.com/mlduque
