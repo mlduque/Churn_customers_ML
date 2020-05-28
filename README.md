@@ -23,7 +23,7 @@ Datasets:
 - productos_enero.csv
 
 
-Note.- Descripcions and explanations are written in Spanish.
+Note.- Descriptions and explanations are written in Spanish.
 
 Contact information:
 - María Luisa Duque (mlduque)
