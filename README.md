@@ -2,7 +2,7 @@
 Machine Learning: Churn customers with Python
 
 
-This reposity contains a Machine Learning study with Python about custormer churn in a telecomunications company 
+This repository contains a Machine Learning study with Python about a custormer churn in a telecomunications company 
 from 2019 December until 2020 January.
 
 	
@@ -26,7 +26,7 @@ Datasets:
 Note.- Descriptions and explanations are written in Spanish.
 
 Contact information:
-- María Luisa Duque (mlduque)
+- Maria Luisa Duque (mlduque)
 - E-mail: marialdu@ucm.es
 - LinkedIn: https://www.linkedin.com/in/marialuisaduque/
 - Github: https://github.com/mlduque
